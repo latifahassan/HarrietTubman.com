@@ -4,6 +4,7 @@
 <link rel="stylesheet" type="text/css" href="styles.css" />
 <title>Harriet Tubman</title>
 </head>
+	
 <body>
   <main id="main">
   <div class="text-center" id="title-div">
